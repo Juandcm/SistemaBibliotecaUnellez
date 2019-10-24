@@ -1,0 +1,62 @@
+sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+sudo apt-get update
+sudo apt-get install grub-customizer
+
+sudo apt-get install qt4-dev-tools libqt4-dev
+sudo apt install libavcodec-extra libdvd-pkg chromium-codecs-ffmpeg-extra gstreamer1.0-fluendo-mp3 gstreamer1.0-libav gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly oxideqt-codecs-extra libunshield0 unshield vlc-plugin-notify binutils-doc gcc-5-locales dh-make g++-multilib g++-5-multilib gcc-5-doc libstdc++6-5-dbg gcc-5-multilib libgcc1-dbg libgomp1-dbg libitm1-dbg libatomic1-dbg libasan2-dbg liblsan0-dbg libtsan0-dbg libubsan0-dbg libcilkrts5-dbg libmpx0-dbg libquadmath0-dbg frei0r-plugins libbluray-bdj libchromaprint-tools python-acoustid firmware-crystalhd sidplay-base srtp-utils libstdc++-5-doc libmail-box-perl opencv-data lib32stdc++6-5-dbg libx32stdc++6-5-dbg glibc-doc glibc-doc:i386 locales:i386 libmail-imapclient-perl libmime-tools-perl spamassassin libmojolicious-perl
+
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt update
+sudo apt install pulseaudio-equalizer
+
+synaptic
+
+
+apt-get install vlc geany gedit gparted build-essential
+
+apt-get install libglu1-mesa-dev libxcb-composite0 libxrender-dev ^libxcb.* build-essential
+me falto:
+multimedia codecs 
+
+filezilla
+
+
+sudo apt-get update && sudo apt-get upgrade
+
+sudo apt-get install vlc-plugin-pulse
+
+sudo apt-get install openjdk-8-jre
+
+sudo apt-get install gstreamer0.10-ffmpeg gstreamer0.10-plugins-bad  gstreamer0.10-plugins-bad-multiverse gstreamer0.10-plugins-ugly gstreamer0.10-plugins-ugly-multiverse
+
+sudo add-apt-repository ppa:pj-assis/ppa
+sudo apt-get update && sudo apt-get install guvcview
+
+
+sudo apt-get install gtkpod  //Ipod
+
+sudo add-apt-repository ppa:plushuang-tw/uget-stable
+ sudo add-apt-repository ppa:t-tujikawa/ppa
+ sudo apt-get update
+
+sudo apt-get install uget aria2
+
+sudo add-apt-repository ppa:chromium-daily
+sudo apt-get install chromiun-browser
+sudo apt-get install chromium-browser-l10n
+
+
+como instalar el sdk en ubuntu linux wikihow
+
+sudo apt-get install ^libxcb.*
+
+ultimo
+sudo apt-get autoremove
+
+
+sudo -s chmod -R 777 /opt/Qt5.8.0
+
+
+
+
+sudo -s chmod -R 777 /home/juan/.config/QtProject
